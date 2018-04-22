@@ -1,0 +1,26 @@
+{
+  "name": "debug-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "files": [ "dist/**/*" ],
+  "private": true,
+  "scripts": {
+    "prepare": "echo NODE_ENV=$NODE_ENV; babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huochunepng/debug-npm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huochunepng/debug-npm/issues"
+  },
+  "homepage": "https://github.com/huochunepng/debug-npm#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-1": "^6.24.1"
+  }
+}
