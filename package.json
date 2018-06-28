@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/huochunepng/debug-npm/issues"
   },
-  "homepage": "https://github.com/huochunepng/debug-npm#readme",
+  "homepage": "https://github.com/huochunepng/debug-npm",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
